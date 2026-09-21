@@ -29,6 +29,11 @@ img.map {
   background-color: lightskyblue
 }
 
+.History-Facts {
+  border: 2px solid black;
+  background-color: lightblue;
+}
+
 .Featured-list {
   border: 2px solid black;
   background-color: pink;
