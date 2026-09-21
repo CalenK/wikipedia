@@ -14,12 +14,12 @@ img.map {
   float: right;
 }
 
-.Article {
+#Article {
   border: 1px solid black;
   background-color: green;
 }
 
-.Fun-Fact {
+#Fun-Fact {
   border: 1px solid black;
   background-color: green;
 }
@@ -31,12 +31,12 @@ img.map {
   margin-bottom: 1px;
 }
 
-.news {
+#news {
   border: 1px solid black;
   background-color: lightskyblue
 }
 
-.History-Facts {
+#History-Facts {
   border: 1px solid black;
   background-color: lightskyblue;
 }
@@ -48,7 +48,7 @@ img.map {
   margin-bottom: 1px;
 }
 
-.Featured-list {
+#Featured-list {
   border: 1px solid black;
   background-color: pink;
 }
@@ -61,7 +61,7 @@ img.map {
   margin-bottom: 1px;
 }
 
-.Featured-picture {
+#Featured-picture {
   border: 1px solid black;
   background-color: lavenderblush;
 }
@@ -74,12 +74,12 @@ img.map {
   margin-bottom: 1px;
 }
 
-.Areas {
+#Areas {
   border: 1px solid black;
   background-color: lightgray;
 }
 
-.other-sites {
+#other-sites {
   border: 1px solid black;
   background-color: lightgray;
 }
