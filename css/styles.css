@@ -15,31 +15,57 @@ img.map {
 }
 
 .Article {
-  border: 2px solid black;
+  border: 1px solid black;
   background-color: green;
 }
 
 .Fun-Fact {
-  border: 2px solid black;
+  border: 1px solid black;
   background-color: green;
 }
 
+.card-body1 {
+  background-color: lightgreen;
+}
+
 .news {
-  border: 2px solid black;
+  border: 1px solid black;
   background-color: lightskyblue
 }
 
 .History-Facts {
-  border: 2px solid black;
+  border: 1px solid black;
   background-color: lightskyblue;
 }
 
+.card-body2 {
+  background-color: lightblue;
+}
+
 .Featured-list {
-  border: 2px solid black;
+  border: 1px solid black;
   background-color: pink;
 }
 
+.card-body3 {
+  background-color: lightpink;
+}
+
 .Featured-picture {
-  border: 2px solid black;
-  background-color: purple;
+  border: 1px solid black;
+  background-color: lavenderblush;
+}
+
+.card-body4 {
+  background-color: lavender;
+}
+
+.Areas {
+  border: 1px solid black;
+  background-color: lightgray;
+}
+
+.other-sites {
+  border: 1px solid black;
+  background-color: lightgray;
 }
