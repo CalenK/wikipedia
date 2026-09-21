@@ -26,6 +26,9 @@ img.map {
 
 .card-body1 {
   background-color: lightgreen;
+  border: 2px solid green;
+  padding: 2px;
+  margin-bottom: 3px;
 }
 
 .news {
@@ -40,6 +43,9 @@ img.map {
 
 .card-body2 {
   background-color: lightblue;
+  border: 2px solid lightskyblue;
+  padding: 2px;
+  margin-bottom: 3px;
 }
 
 .Featured-list {
@@ -49,6 +55,10 @@ img.map {
 
 .card-body3 {
   background-color: lightpink;
+  border: 2px solid pink;
+  padding: 2px;
+  margin-top: 3px;
+  margin-bottom: 3px;
 }
 
 .Featured-picture {
@@ -58,6 +68,10 @@ img.map {
 
 .card-body4 {
   background-color: lavender;
+  border: 2px solid lavenderblush;
+  padding: 2px;
+  margin-top: 3px;
+  margin-bottom: 3px;
 }
 
 .Areas {
